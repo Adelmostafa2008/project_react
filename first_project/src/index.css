@@ -1,0 +1,15 @@
+.card{
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 10px rgba(112, 111, 111, 0.404);
+  max-width: 250px;
+  text-align: center;
+  display: inline-block;
+
+}
+
+.card .pic{
+  border-radius: 50%;
+}
