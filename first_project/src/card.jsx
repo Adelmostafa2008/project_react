@@ -8,6 +8,8 @@ function Card(){
         <h2>My First Card</h2>
         <p>look at me gat daim i look smooth asf bro am gonna make millions out of this shit bro</p>
         </div>
+
+        
         </>
     );
 }
