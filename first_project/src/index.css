@@ -15,3 +15,24 @@
   border-radius: 50%;
 }
 
+.logged{
+  font-size: larger;
+  background-color: rgb(68, 238, 68);
+  color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.not_logged{
+  font-size: larger;
+  background-color: rgb(255, 17, 17);
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
