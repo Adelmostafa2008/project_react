@@ -1,15 +1,13 @@
 import picture from './assets/default.png'
 
-function Card(props){
+function Card({ name , pic ,paragraph }){
     return(
         <>
         <div className="card">
-        <img alt="profile pic" src={props.pic} className="pic"></img>
-        <h2>{props.name}</h2>
-        <p>{props.paragraph}</p>
+        <img alt="profile pic" src={pic} className="pic"></img>
+        <h2>{name}</h2>
+        <p>{paragraph}</p>
         </div>
-
-        
         </>
     );
 }

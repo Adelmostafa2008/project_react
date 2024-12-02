@@ -10,6 +10,9 @@
   margin: 20px;
 
 }
+button{
+  cursor: pointer;
+}
 
 .card .pic{
   border-radius: 50%;
